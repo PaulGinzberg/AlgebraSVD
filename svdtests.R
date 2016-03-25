@@ -390,7 +390,7 @@ Ahermconj <- function(A,algebra=NULL,Aconj=getAconj(algebra)) {
 
 
 #### Some examples of use, including the plots created for the article:
-## Paul Ginzberg and Christiana Mavroyiakoumou "The QRD and SVD of matrices over a real algebra", Linear Algebra and ist Applications, 2016.
+## Paul Ginzberg and Christiana Mavroyiakoumou "The QRD and SVD of matrices over a real algebra", Linear Algebra and its Applications, 2016.
 
 
 oldpar <- par()
